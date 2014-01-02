@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "app.js"
+  },
+  "version": "0.0.2-3",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "name": "tipan01",
+  "subdomain": "tipan.samkeene",
+  "dependencies": {
+    "socket.io": "0.9.x"
+  }
+}
